@@ -2,5 +2,7 @@ Numpy
 scikit-learn
 matplotlib
 pandas
+seaborn
+dill
 
--e .
+#-e .
